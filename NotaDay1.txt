@@ -1,0 +1,10 @@
+Azimah
+23
+DevOps Cert Participant
+
+git clone
+git init
+git add .
+git status
+git push
+git pull
